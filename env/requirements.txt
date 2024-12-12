@@ -1,0 +1,11 @@
+pandas
+category_encoders
+scikit-learn
+imbalanced-learn
+matplotlib
+numpy
+xgboost
+lightgbm
+catboost
+shap
+scipy
